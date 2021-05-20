@@ -8,6 +8,8 @@ A mobile app that’ll allow anyone without an account share
 It requires the following permissions
   - Internet Access
   - File Read/Write 
-  - ![pasted image 0](https://user-images.githubusercontent.com/51192654/118938412-4bcdbd80-b957-11eb-827f-1a0ef6fe53d9.png)
+
+
+ ![pasted image 0](https://user-images.githubusercontent.com/51192654/118938412-4bcdbd80-b957-11eb-827f-1a0ef6fe53d9.png)
 
   
